@@ -10,6 +10,7 @@ import UIKit
 
 class SettingsViewController: UIViewController {
 
+    @IBOutlet weak var DivideBill: UITextField!
     override func viewDidLoad() {
         super.viewDidLoad()
 
